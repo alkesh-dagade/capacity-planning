@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   db-gene-demo-capacity-planning:
   - apiVersion: v1
-    appVersion: 1.0.4
-    created: "2020-07-16T04:36:22.276826172-05:00"
-    description: Capacity planning - Sample charts
-    digest: 3e9c1f8b7438ebe11afa9977ae3f6e31c0529195dee1f4c64ebfded8f2db14d0
+    appVersion: 1.0.5
+    created: "2020-08-05T11:02:20.308060739-05:00"
+    description: Capacity plannig
+    digest: a77e5e4dd7f353d758296fda7cf54a21960e4ffba7432563a569b451c5578532
     name: db-gene-demo-capacity-planning
     urls:
-    - https://github.com/alkesh-dagade/capacity-planning/releases/download/db-gene-demo-capacity-planning-1.0.4/db-gene-demo-capacity-planning-1.0.4.tgz
-    version: 1.0.4
+    - https://github.com/alkesh-dagade/capacity-planning/releases/download/db-gene-demo-capacity-planning-1.0.5/db-gene-demo-capacity-planning-1.0.5.tgz
+    version: 1.0.5
 generated: "2020-07-16T04:36:22.059758814-05:00"
